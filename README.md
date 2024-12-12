@@ -1,18 +1,8 @@
 # movies-application
 
-This template should help get you started developing with Vue 3 in Vite.
+![image](https://github.com/user-attachments/assets/2bc54d12-0ab7-4c39-b63e-07e15a1ee34a)
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+Vue movies is a project created with the aim of learning Vue.js. In this application is possible to check for the most recent and popular movies and also search for specific ones.
 
 ## Project Setup
 
