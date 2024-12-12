@@ -1,4 +1,4 @@
-# movies-application
+# Vue Movies
 
 ![image](https://github.com/user-attachments/assets/2bc54d12-0ab7-4c39-b63e-07e15a1ee34a)
 
